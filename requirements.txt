@@ -1,4 +1,3 @@
 nltk
 wordcloud
 pandas
-pickle
